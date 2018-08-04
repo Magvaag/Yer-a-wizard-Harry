@@ -1,0 +1,10 @@
+Source/.vs
+game.exe
+game.zip
+*.csproj
+*.sln
+*.userprefs
+Source/Temp
+Source/Library
+Source/game_Data
+Source/Assets/Standard\ Assets
